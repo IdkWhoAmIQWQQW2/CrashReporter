@@ -13,5 +13,4 @@ Open automatically if server.exe is shut down.
 
 Keep crash logs in crashlogs.txt.
 
-
-# *Discord : Kaan#7777 -> If you want to contact me about this repository*
+# Discord : Kaan#7777 -> If you want to contact me about this repository
