@@ -8,7 +8,7 @@ Please don't change owner name to your name.
 # *How To Use*
 Build the solution and put it in the folder which have your server.exe
 
-#*Features*
+# *Features*
 Open automatically if server.exe is shut down.
 
 Keep crash logs in crashlogs.txt.
